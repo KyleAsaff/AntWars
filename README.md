@@ -2,7 +2,6 @@
 Winning Ant Wars: Evolving a Human-Competitive Game Strategy
 
 # About The Game
-jaskowski08EuroGPantwars.pdf
 
 Ant Wars was one of the competitions organized within GECCO’2007, Genetic
 and Evolutionary Computation Conference, in London, England, July 7–12,
