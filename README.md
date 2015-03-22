@@ -38,7 +38,7 @@ I have edited /src/antClient/AIprocessorRand.java and made the following changes
     which quadrant it is in (NW, NE, SW, SE).
 4. After the AI visits all 4 corners of the sector, the AI will visit a quadrant it has not been to yet.
 5. It will repeat the 4 above steps and if the game is not ended by the end after visiting all 4 quadrants, the AI
-   will go in random directions in an attempt to hash any food it comes across and it will try to reach it.
+   will go in random directions in an attempt to hash any food it comes across and will try to reach it.
 
 # How to Run the Game
 
