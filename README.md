@@ -29,7 +29,7 @@ This was a project for CSCI3154 to see who could create the most efficient ant A
 
 # Improvements to the AI
 
-I have edited AIprocessorRand.java and made the following changes to the AI:
+I have edited /src/antClient/AIprocessorRand.java and made the following changes to the AI:
 
 1. The AI hashes all nearby food locations into a hash table using the key as the priority of the food (1=highest)
     and will then attempt to reach each food location it has hashed.
