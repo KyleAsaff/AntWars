@@ -25,8 +25,7 @@ until the end of the game. Moving into an empty cell has no extra effect. A game
 is won by the ant that attains higher score. In case of tie, Ant 1 is the winner.
 
 # Competition
-This was a project for CSCI3154 to see who could create the most efficient ant AI in the class (i.e. win the most games in a simulation). 
-In a 1000 game simulation, my ant placed fourth in the class.
+This was a project for CSCI3154 to see who could create the most efficient ant AI in the class (i.e. win the most games in a simulation). In a 1000 game simulation, my ant placed third in the class.
 
 # Improvements to the AI
 
