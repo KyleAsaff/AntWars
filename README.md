@@ -45,3 +45,4 @@ I have edited AIprocessorRand.java and made the following changes to the AI:
 1. Initialize and compile all files by running scripts/compileAll.bat
 2. Run AntWarsClient.bat, AntWarsServer.bat, AntWarsVizClient.bat
 3. Use the AntWarsServer GUI to start the game
+4. Use the arrow keys to move the human controlled ant in the AntWarsVizClient
