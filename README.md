@@ -1,4 +1,4 @@
-# AntWarsAI
+# AntWars
 Winning Ant Wars: Evolving a Human-Competitive Game Strategy
 
 # About The Game
